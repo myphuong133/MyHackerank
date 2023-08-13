@@ -7,4 +7,3 @@ function solve(n, a, b) {
     return res;
 }
 
-solve(1, "82195", "64723")
